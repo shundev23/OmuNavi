@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using OmuNaviAPI.Models
 
-namespace YourNamespace.Data
+namespace OmuNaviAPI.Data
 {
     public class OmuNaviContext : DbContext
     {
