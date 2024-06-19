@@ -45,3 +45,5 @@ yarn.lock
 
 # Ignore dependency folders
 node_modules
+
+*.vsidx
