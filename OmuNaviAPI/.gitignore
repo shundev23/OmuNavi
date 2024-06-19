@@ -1,0 +1,47 @@
+# Ignore build outputs
+bin
+obj
+# Ignore Visual Studio specific files
+.vs/
+
+
+# Ignore user-specific files
+.vscode
+.user
+.suo
+
+# Ignore temporary files
+.log
+.tmp
+
+# Ignore ASP.NET specific files
+appsettings..json
+appsettings.json
+
+# Ignore node modules
+node_modules
+
+# Ignore environment-specific files
+.env
+
+# Ignore coverage reports
+coverage
+.coverage
+.coveragejson
+.coveragexml
+
+# Ignore packages folder
+packages
+
+# Ignore Visual Studio Code specific files
+.vscode
+
+# Ignore Mac specific files
+.DS_Store
+
+# Ignore package lock files
+package-lock.json
+yarn.lock
+
+# Ignore dependency folders
+node_modules
